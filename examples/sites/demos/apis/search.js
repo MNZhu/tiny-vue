@@ -162,7 +162,7 @@ export default {
           type: 'String',
           defaultValue: 'primary',
           desc: {
-            'zh-CN': '<p>配置主题色，primary:蓝 gray:灰</p>',
+            'zh-CN': '<p>配置主题色，primary:常规 gray:灰</p>',
             'en-US': 'display different button'
           },
           mode: ['mobile'],
